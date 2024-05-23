@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Sussy_Night", "A Sussy Night\A_Sussy_Night\A_Sussy_Night.csproj", "{85E23091-F0C7-423C-BA93-FF35831BED90}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "A_Sussy_NightContent", "A Sussy Night\A_Sussy_NightContent\A_Sussy_NightContent.contentproj", "{8CA37DBC-70E1-49B6-A105-3EB83248444C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85E23091-F0C7-423C-BA93-FF35831BED90}.Debug|x86.ActiveCfg = Debug|x86
+		{85E23091-F0C7-423C-BA93-FF35831BED90}.Debug|x86.Build.0 = Debug|x86
+		{85E23091-F0C7-423C-BA93-FF35831BED90}.Release|x86.ActiveCfg = Release|x86
+		{85E23091-F0C7-423C-BA93-FF35831BED90}.Release|x86.Build.0 = Release|x86
+		{8CA37DBC-70E1-49B6-A105-3EB83248444C}.Debug|x86.ActiveCfg = Debug|x86
+		{8CA37DBC-70E1-49B6-A105-3EB83248444C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
